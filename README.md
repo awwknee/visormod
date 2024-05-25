@@ -1,6 +1,7 @@
 # Visor Mod
-a silly little mod to add some ovals on my screen because I have severe motion sickness when playing minecraft and this is the only way I can play :D
-maybe I add more stuff to it later, who knows
+a silly little mod to add some ovals on my screen because I have severe motion sickness when playing minecraft and this is the only way I can play. :D
+
+maybe I add more stuff to it later, who knows?
 
 Setup Process:
 ==============================
